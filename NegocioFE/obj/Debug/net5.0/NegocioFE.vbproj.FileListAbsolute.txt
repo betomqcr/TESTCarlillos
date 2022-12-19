@@ -1,0 +1,49 @@
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\bin\Debug\net5.0\NegocioFE.deps.json
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\bin\Debug\net5.0\NegocioFE.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\bin\Debug\net5.0\ref\NegocioFE.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\bin\Debug\net5.0\NegocioFE.pdb
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\bin\Debug\net5.0\DatosFE.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\bin\Debug\net5.0\DatosFE.pdb
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\obj\Debug\net5.0\NegocioFE.vbproj.AssemblyReference.cache
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\obj\Debug\net5.0\NegocioFE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\obj\Debug\net5.0\NegocioFE.AssemblyInfoInputs.cache
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\obj\Debug\net5.0\NegocioFE.AssemblyInfo.vb
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\obj\Debug\net5.0\NegocioFE.vbproj.CoreCompileInputs.cache
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\obj\Debug\net5.0\NegocioFE.vbproj.CopyComplete
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\obj\Debug\net5.0\NegocioFE.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\obj\Debug\net5.0\ref\NegocioFE.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\obj\Debug\net5.0\NegocioFE.pdb
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\bin\Debug\net5.0\FirmaXadesNet.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\bin\Debug\net5.0\NegocioFE.deps.json
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\bin\Debug\net5.0\NegocioFE.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\bin\Debug\net5.0\ref\NegocioFE.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\bin\Debug\net5.0\NegocioFE.pdb
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\bin\Debug\net5.0\DatosFE.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\bin\Debug\net5.0\FirmaXadesNet.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\bin\Debug\net5.0\Microsoft.Xades.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\bin\Debug\net5.0\DatosFE.pdb
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\obj\Debug\net5.0\NegocioFE.vbproj.AssemblyReference.cache
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\obj\Debug\net5.0\NegocioFE.GeneratedMSBuildEditorConfig.editorconfig
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\obj\Debug\net5.0\NegocioFE.AssemblyInfoInputs.cache
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\obj\Debug\net5.0\NegocioFE.AssemblyInfo.vb
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\obj\Debug\net5.0\NegocioFE.vbproj.CoreCompileInputs.cache
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\obj\Debug\net5.0\NegocioFE.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\obj\Debug\net5.0\ref\NegocioFE.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\obj\Debug\net5.0\NegocioFE.pdb
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\bin\Debug\net5.0\NegocioFE.deps.json
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\bin\Debug\net5.0\NegocioFE.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\bin\Debug\net5.0\ref\NegocioFE.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\bin\Debug\net5.0\NegocioFE.pdb
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\bin\Debug\net5.0\DatosFE.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\bin\Debug\net5.0\FirmaXadesNet.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\bin\Debug\net5.0\Microsoft.Xades.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\bin\Debug\net5.0\DatosFE.pdb
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\obj\Debug\net5.0\NegocioFE.vbproj.AssemblyReference.cache
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\obj\Debug\net5.0\NegocioFE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\obj\Debug\net5.0\NegocioFE.AssemblyInfoInputs.cache
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\obj\Debug\net5.0\NegocioFE.AssemblyInfo.vb
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\obj\Debug\net5.0\NegocioFE.vbproj.CoreCompileInputs.cache
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\obj\Debug\net5.0\NegocioFE.vbproj.CopyComplete
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\obj\Debug\net5.0\NegocioFE.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\obj\Debug\net5.0\ref\NegocioFE.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\NegocioFE\obj\Debug\net5.0\NegocioFE.pdb

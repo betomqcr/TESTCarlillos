@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Class\AbonosApartadosDetalles.cs" />
+    <Compile Remove="Class\AjustesInventariosDetalles.cs" />
+    <Compile Remove="Class\ApartadosDetalles.cs" />
+    <Compile Remove="Class\AperturasDenominaciones.cs" />
+    <Compile Remove="Class\AperturasTotalesTopes.cs" />
+    <Compile Remove="Class\AreasArticulos.cs" />
+    <Compile Remove="Class\AreasEncargados.cs" />
+    <Compile Remove="Class\ArqueosDepositos.cs" />
+    <Compile Remove="Class\ArqueosEfectivos.cs" />
+    <Compile Remove="Class\ArqueosTarjetas.cs" />
+    <Compile Remove="Class\ArticulosComprados.cs" />
+    <Compile Remove="Class\ArticulosCompradosDevueltos.cs" />
+    <Compile Remove="Class\ArticulosGastos.cs" />
+    <Compile Remove="Class\ArticulosRelacionados.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="1.50.5" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.9" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.13" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.13" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.13">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="6.0.0" />
+  </ItemGroup>
+
+</Project>

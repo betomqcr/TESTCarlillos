@@ -1,0 +1,24 @@
+{
+  "DependencyConfiguration": {
+    "Dependencies": [
+      /* ConnectionManager */
+      {
+        "From": "Datos.Interfaces.IConnectionManager, Datos.Interfaces",
+        "To": "Datos.Connection.ConnectionManager, Datos.Connection",
+        "DependencyType": "Transient"
+      },
+      /* ClientesManager */
+      {
+        "From": "Datos.Interfaces.IClientesManager, Datos.Interfaces",
+        "To": "Datos.Class.ClientesManager, Datos.Class",
+        "DependencyType": "Transient"
+      },
+      //{
+      //  "From": "Gmg.Genesys.Service.Blacklist.BusinessLogic.Interface.IExclusionPhonesManager,Gmg.Genesys.Service.Blacklist.BusinessLogic.Interface",
+      //  "To": "Gmg.Genesys.Service.Blacklist.BusinessLogic.ExclusionPhonesManager, Gmg.Genesys.Service.Blacklist.BusinessLogic",
+      //  "DependencyType": "Transient"
+      //}
+
+    ]
+  }
+}

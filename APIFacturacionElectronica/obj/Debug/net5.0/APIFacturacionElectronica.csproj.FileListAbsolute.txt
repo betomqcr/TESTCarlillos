@@ -1,0 +1,224 @@
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\appsettings.json
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\APIFacturacionElectronica.exe
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\APIFacturacionElectronica.deps.json
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\APIFacturacionElectronica.runtimeconfig.json
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\APIFacturacionElectronica.runtimeconfig.dev.json
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\APIFacturacionElectronica.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\ref\APIFacturacionElectronica.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\APIFacturacionElectronica.pdb
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Humanizer.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\DatosFE.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\NegocioFE.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\NegocioFE.pdb
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\DatosFE.pdb
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\APIFacturacionElectronica.csproj.AssemblyReference.cache
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\APIFacturacionElectronica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\APIFacturacionElectronica.AssemblyInfoInputs.cache
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\APIFacturacionElectronica.AssemblyInfo.cs
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\APIFacturacionElectronica.csproj.CoreCompileInputs.cache
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\APIFacturacionElectronica.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\APIFacturacionElectronica.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\staticwebassets\APIFacturacionElectronica.StaticWebAssets.Manifest.cache
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\scopedcss\bundle\APIFacturacionElectronica.styles.css
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\APIFacturacionElectronica.RazorTargetAssemblyInfo.cache
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\APIFacturacionElectronica.csproj.CopyComplete
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\APIFacturacionElectronica.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\ref\APIFacturacionElectronica.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\APIFacturacionElectronica.pdb
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\APIFacturacionElectronica.genruntimeconfig.cache
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\itextsharp.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\FirmaXadesNet.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\libman.json
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\staticwebassets\APIFacturacionElectronica.StaticWebAssets.xml
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\appsettings.Development.json
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\appsettings.json
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\libman.json
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\APIFacturacionElectronica.exe
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\APIFacturacionElectronica.deps.json
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\APIFacturacionElectronica.runtimeconfig.json
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\APIFacturacionElectronica.runtimeconfig.dev.json
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\APIFacturacionElectronica.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\ref\APIFacturacionElectronica.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\APIFacturacionElectronica.pdb
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Humanizer.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\itextsharp.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\DatosFE.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\NegocioFE.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\FirmaXadesNet.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.Xades.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\NegocioFE.pdb
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\DatosFE.pdb
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\APIFacturacionElectronica.csproj.AssemblyReference.cache
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\APIFacturacionElectronica.GeneratedMSBuildEditorConfig.editorconfig
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\APIFacturacionElectronica.AssemblyInfoInputs.cache
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\APIFacturacionElectronica.AssemblyInfo.cs
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\APIFacturacionElectronica.csproj.CoreCompileInputs.cache
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\APIFacturacionElectronica.MvcApplicationPartsAssemblyInfo.cs
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\APIFacturacionElectronica.MvcApplicationPartsAssemblyInfo.cache
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\staticwebassets\APIFacturacionElectronica.StaticWebAssets.Manifest.cache
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\staticwebassets\APIFacturacionElectronica.StaticWebAssets.xml
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\scopedcss\bundle\APIFacturacionElectronica.styles.css
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\APIFacturacionElectronica.RazorTargetAssemblyInfo.cache
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\APIFacturacionElectronica.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\ref\APIFacturacionElectronica.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\APIFacturacionElectronica.pdb
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\APIFacturacionElectronica.genruntimeconfig.cache
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\appsettings.Development.json
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\appsettings.json
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\libman.json
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\APIFacturacionElectronica.exe
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\APIFacturacionElectronica.deps.json
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\APIFacturacionElectronica.runtimeconfig.json
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\APIFacturacionElectronica.runtimeconfig.dev.json
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\APIFacturacionElectronica.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\ref\APIFacturacionElectronica.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\APIFacturacionElectronica.pdb
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Humanizer.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\itextsharp.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\DatosFE.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\NegocioFE.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\FirmaXadesNet.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\Microsoft.Xades.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\NegocioFE.pdb
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\bin\Debug\net5.0\DatosFE.pdb
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\APIFacturacionElectronica.csproj.AssemblyReference.cache
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\APIFacturacionElectronica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\APIFacturacionElectronica.AssemblyInfoInputs.cache
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\APIFacturacionElectronica.AssemblyInfo.cs
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\APIFacturacionElectronica.csproj.CoreCompileInputs.cache
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\APIFacturacionElectronica.MvcApplicationPartsAssemblyInfo.cs
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\APIFacturacionElectronica.MvcApplicationPartsAssemblyInfo.cache
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\staticwebassets\APIFacturacionElectronica.StaticWebAssets.Manifest.cache
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\staticwebassets\APIFacturacionElectronica.StaticWebAssets.xml
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\scopedcss\bundle\APIFacturacionElectronica.styles.css
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\APIFacturacionElectronica.RazorTargetAssemblyInfo.cache
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\APIFacturacionElectronica.csproj.CopyComplete
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\APIFacturacionElectronica.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\ref\APIFacturacionElectronica.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\APIFacturacionElectronica.pdb
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\APIFacturacionElectronica\obj\Debug\net5.0\APIFacturacionElectronica.genruntimeconfig.cache

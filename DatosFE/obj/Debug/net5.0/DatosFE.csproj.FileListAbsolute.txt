@@ -1,0 +1,44 @@
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\bin\Debug\net5.0\DatosFE.deps.json
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\bin\Debug\net5.0\DatosFE.runtimeconfig.json
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\bin\Debug\net5.0\DatosFE.runtimeconfig.dev.json
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\bin\Debug\net5.0\DatosFE.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\bin\Debug\net5.0\ref\DatosFE.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\bin\Debug\net5.0\DatosFE.pdb
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\obj\Debug\net5.0\DatosFE.csproj.AssemblyReference.cache
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\obj\Debug\net5.0\DatosFE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\obj\Debug\net5.0\DatosFE.AssemblyInfoInputs.cache
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\obj\Debug\net5.0\DatosFE.AssemblyInfo.cs
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\obj\Debug\net5.0\DatosFE.csproj.CoreCompileInputs.cache
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\obj\Debug\net5.0\DatosFE.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\obj\Debug\net5.0\ref\DatosFE.dll
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\obj\Debug\net5.0\DatosFE.pdb
+C:\Users\AlbertoMartínezQuesa\OneDrive - Palantir S.A\Documentos\Personal\SUVESA\Programacion\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\obj\Debug\net5.0\DatosFE.genruntimeconfig.cache
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\bin\Debug\net5.0\DatosFE.deps.json
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\bin\Debug\net5.0\DatosFE.runtimeconfig.json
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\bin\Debug\net5.0\DatosFE.runtimeconfig.dev.json
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\bin\Debug\net5.0\DatosFE.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\bin\Debug\net5.0\ref\DatosFE.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\bin\Debug\net5.0\DatosFE.pdb
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\obj\Debug\net5.0\DatosFE.GeneratedMSBuildEditorConfig.editorconfig
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\obj\Debug\net5.0\DatosFE.AssemblyInfoInputs.cache
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\obj\Debug\net5.0\DatosFE.AssemblyInfo.cs
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\obj\Debug\net5.0\DatosFE.csproj.CoreCompileInputs.cache
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\obj\Debug\net5.0\DatosFE.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\obj\Debug\net5.0\ref\DatosFE.dll
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\obj\Debug\net5.0\DatosFE.pdb
+C:\WEBSuvesaPOS\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\obj\Debug\net5.0\DatosFE.genruntimeconfig.cache
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\bin\Debug\net5.0\DatosFE.deps.json
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\bin\Debug\net5.0\DatosFE.runtimeconfig.json
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\bin\Debug\net5.0\DatosFE.runtimeconfig.dev.json
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\bin\Debug\net5.0\DatosFE.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\bin\Debug\net5.0\ref\DatosFE.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\bin\Debug\net5.0\DatosFE.pdb
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\obj\Debug\net5.0\DatosFE.csproj.AssemblyReference.cache
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\obj\Debug\net5.0\DatosFE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\obj\Debug\net5.0\DatosFE.AssemblyInfoInputs.cache
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\obj\Debug\net5.0\DatosFE.AssemblyInfo.cs
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\obj\Debug\net5.0\DatosFE.csproj.CoreCompileInputs.cache
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\obj\Debug\net5.0\DatosFE.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\obj\Debug\net5.0\ref\DatosFE.dll
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\obj\Debug\net5.0\DatosFE.pdb
+C:\Proyectos\SEEPOS\DevSuvesaPosWeb\ApiSuvesaPos\DatosFE\obj\Debug\net5.0\DatosFE.genruntimeconfig.cache
