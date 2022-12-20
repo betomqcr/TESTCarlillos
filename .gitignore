@@ -415,3 +415,5 @@ FodyWeavers.xsd
 /.vs/ApiSuvesaPos/v17/fileList.bin
 /.vs/ProjectEvaluation/apisuvesapos.metadata.v5.2
 /.vs/ProjectEvaluation/apisuvesapos.projects.v5.2
+/Datos/obj/Debug/net5.0/Datos.csproj.AssemblyReference.cache
+/DatosFE/obj/Debug/net5.0/DatosFE.csproj.AssemblyReference.cache
